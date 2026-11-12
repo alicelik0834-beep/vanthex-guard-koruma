@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 1000;
 app.listen(PORT, "0.0.0.0", () => {
   console.log(`Web sunucusu ${PORT} portunda aktif.`);
 });
-
+ 
 const fs = require('fs');
 const path = require('path');
 const dns = require('dns');

@@ -1,23 +1,23 @@
-# DM Blocking Feature - v!dmmesajkapat & v!dmmesajaç
+# DM Blocking Feature - !dmmesajkapat & !dmmesajaç
 
 ## Implementation Summary
 
-The bot now respects user DM preferences through global blocking system. Users can disable all DM messages sent by the bot using the `v!dmmesajkapat` command.
+The bot now respects user DM preferences through global blocking system. Users can disable all DM messages sent by the bot using the `!dmmesajkapat` command.
 
 ## Commands
 
-### v!dmmesajkapat
+### !dmmesajkapat
 - **Description**: Completely blocks all DM messages from the bot
 - **Effect**: Blocks DMs from:
   - Welcome messages (when joining a server)
   - Ticket notifications
   - Ban/Kick/Mute notifications
-  - Broadcast messages (v!bilgilendirme)
+  - Broadcast messages (!bilgilendirme)
   - Ticket channel updates
   - Spam protection notifications
   - Any other bot DM
 
-### v!dmmesajaç
+### !dmmesajaç
 - **Description**: Re-enables DM messages from the bot
 - **Prerequisite**: User must have previously blocked DMs
 
@@ -43,14 +43,14 @@ async function safeSend(target, content) {
    - Ticket open confirmation DM
    - Ticket message notification DM
 3. **Moderation Actions**:
-   - v!mute command (timeout notification)
-   - v!ban command (ban notification)
-   - v!kick command (kick notification)
+   - !mute command (timeout notification)
+   - !ban command (ban notification)
+   - !kick command (kick notification)
 4. **Auto Actions**:
    - GuildMemberUpdate (Timeout notifications)
    - GuildBanAdd (Ban notifications)
 5. **Broadcast**:
-   - v!bilgilendirme (Admin broadcast with blocked user counting)
+   - !bilgilendirme (Admin broadcast with blocked user counting)
 6. **Welcome DMs**:
    - GuildMemberAdd (New member DM)
 
@@ -66,8 +66,8 @@ async function safeSend(target, content) {
 - No way to disable DMs globally
 
 ### After Update
-- Users can run `v!dmmesajkapat` anytime to block all bot DMs
-- Users can run `v!dmmesajaç` to re-enable them
+- Users can run `!dmmesajkapat` anytime to block all bot DMs
+- Users can run `!dmmesajaç` to re-enable them
 - Blocked users won't receive any DMs from:
   - Moderation actions
   - Welcome messages
@@ -76,7 +76,7 @@ async function safeSend(target, content) {
   - Any other bot notification
 
 ### Broadcast Statistics
-When admins run `v!bilgilendirme`, blocked users are:
+When admins run `!bilgilendirme`, blocked users are:
 - Counted as "Hata" (Error) in statistics
 - Not actually sent the message
 - Listed as attempted but prevented
@@ -87,7 +87,7 @@ When admins run `v!bilgilendirme`, blocked users are:
 
 ## Testing Checklist
 - [x] Syntax validation passed
-- [x] Commands added: v!dmmesajkapat, v!dmmesajaç
+- [x] Commands added: !dmmesajkapat, !dmmesajaç
 - [x] safeSend() helper implemented
 - [x] All DM sources updated to use safeSend()
 - [x] JSON persistence working
@@ -95,6 +95,6 @@ When admins run `v!bilgilendirme`, blocked users are:
 
 ## Commands to Test
 ```
-v!dmmesajkapat          # Block all DMs from bot
-v!dmmesajaç             # Re-enable DMs from bot
+!dmmesajkapat          # Block all DMs from bot
+!dmmesajaç             # Re-enable DMs from bot
 ```

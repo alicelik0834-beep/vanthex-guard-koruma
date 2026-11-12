@@ -1,0 +1,21 @@
+{
+  "1569716206166867999": {
+    "setupChannelId": "1570375760676659202",
+    "categoryId": "1570375759426486452",
+    "personalChannels": {
+      "1329890834820104304": {
+        "voiceChannelId": "1570375774874243163",
+        "banned": [],
+        "muted": [],
+        "userLimit": 0,
+        "menuMessageId": "1570375788849664021",
+        "textChannelId": "1570375787071148105"
+      }
+    }
+  },
+  "1508895471949713541": {
+    "setupChannelId": "1570376857054871632",
+    "categoryId": "1544007349562384395",
+    "personalChannels": {}
+  }
+}

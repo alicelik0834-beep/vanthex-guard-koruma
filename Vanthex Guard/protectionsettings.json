@@ -1,0 +1,529 @@
+{
+  "1441749913024073759": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1468529343142563887": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 5
+    },
+    "roleCreate": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 5
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 5
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 5
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 5
+    },
+    "botBlocker": {
+      "enabled": false
+    }
+  },
+  "1474340865903165604": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles",
+    "capslockBlocker": {
+      "enabled": true
+    }
+  },
+  "1499774319096627341": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles",
+    "capslockBlocker": {
+      "enabled": true
+    }
+  },
+  "1485365360533311639": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1485958634512056322": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1482406052497719381": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles",
+    "capslockBlocker": {
+      "enabled": true
+    }
+  },
+  "1502630165233008772": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1497588986129154139": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1477336720239497438": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1519417999939862578": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "capslockBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles"
+  },
+  "1519758905184485616": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles"
+  },
+  "1519796037047422976": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1506276008439840860": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles"
+  },
+  "1519866537987538984": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles"
+  },
+  "1517527010614841545": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "capslockBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1538177172366299186": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    },
+    "action": "remove_roles"
+  },
+  "1569716206166867999": {
+    "roleDelete": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "roleCreate": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "channelCreate": {
+      "enabled": true,
+      "limit": 5,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "categoryCreate": {
+      "enabled": false,
+      "limit": 5,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": false
+    }
+  },
+  "1470132919258316822": {
+    "roleDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "channelDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "categoryDelete": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "memberKick": {
+      "enabled": true,
+      "limit": 10,
+      "interval": 10
+    },
+    "botBlocker": {
+      "enabled": true
+    },
+    "action": "remove_roles"
+  }
+}
