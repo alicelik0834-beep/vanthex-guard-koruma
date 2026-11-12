@@ -1,1 +1,0 @@
-# vanthex-guard-koruma
